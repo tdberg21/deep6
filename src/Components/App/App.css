@@ -1,0 +1,27 @@
+.App {
+  text-align: left;
+}
+
+.App-header {
+  padding: 0 2rem;
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  font-size: 1.1rem;
+  color: white;
+}
+
+.header-nav {
+  color: #61dafb;
+  text-decoration: none;
+  padding: 1.1rem 0.5rem;
+}
+
+.header-nav:hover {
+  color: #fff;
+  border-bottom: 3px solid #61dafb;
+}
+
